@@ -1,6 +1,6 @@
 ---
 layout: page
-title: magnisium
+title: magnetism
 description: a project with a background image
 img: assets/img/1.png
 importance: 1
