@@ -21,11 +21,11 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Vocational school diploma
+      institution: Progresia Vocational School, Cianjur
+      year: 2017
       description:
-        - Description 1.
+        - Network and Computer Engineering
         - Description 2.
 
 - title: Experience
