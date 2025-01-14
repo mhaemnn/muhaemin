@@ -17,7 +17,7 @@ This project is licensed under the MIT License - see the <a href="LICENSE">LICEN
   </a>
 </p>
 
-Selamat datang di repository Panduan System Administrator! Repository ini dibuat untuk membantu Anda mempelajari keterampilan dan pengetahuan yang diperlukan untuk menjadi seorang System Administrator yang andal. Kami menyediakan panduan langkah demi langkah, contoh praktis, dan sumber daya tambahan yang relevan untuk mendukung perjalanan Anda.
+Selamat datang di repository **Panduan System Administrator**! Repository ini dibuat untuk membantu Anda mempelajari keterampilan dan pengetahuan yang diperlukan untuk menjadi seorang System Administrator yang andal. Kami menyediakan panduan langkah demi langkah, contoh praktis, dan sumber daya tambahan yang relevan untuk mendukung perjalanan Anda.
 
 ## Tentang Repositori
 Repositori mencakup:
