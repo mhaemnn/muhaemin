@@ -16,7 +16,7 @@ Terima kasih telah mempertimbangkan untuk berkontribusi pada repository **Pandua
    - Usulkan tugas praktis untuk pemula, tingkat menengah, atau lanjutan di folder `tasks/`.
 
 5. **Tingakatkan Alat dan Sumer Daya**
-   - AddTambahkan cheat sheet atau tautan sumber daya di direktori `tools/`.
+   - Tambahkan cheat sheet atau tautan sumber daya di direktori `tools/`.
 
 ## **Mengirimkan Kontribusi**
 
