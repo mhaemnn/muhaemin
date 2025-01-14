@@ -47,4 +47,4 @@ system-admin/
 Kami menyambut konstribusi dari komunitas! jika ingin membantu, silahkan baca panduan [CONTRIBUTTING.md](/CONTRIBUTING.md) 
 
 ## Dukungan
-Jika anda memiliki pertanyaan atau menemukan masalah silahkan buka di bagian [issues](/.github/ISSUE_TEMPLATE/)
+Jika Anda memiliki pertanyaan atau menemukan masalah, silakan buka di bagian [Issues](../../issues).
