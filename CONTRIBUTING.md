@@ -13,7 +13,7 @@ Terima kasih telah mempertimbangkan untuk berkontribusi pada repository **Pandua
    - Sumbangkan skrip atau file konfigurasi yang berguna ke direktori `examples/`.
 
 4. **Ajukan Tugas Baru**
-   - Usulkan tugas praktis untuk pemula, tingkat menengah, atau lanjutan di folder `tasks/`.
+   - Usulkan tugas praktis untuk pemula, tingkat menengah, atau lanjutan di **folder** `tasks/`.
 
 5. **Tingakatkan Alat dan Sumer Daya**
    - Tambahkan cheat sheet atau tautan sumber daya di direktori `tools/`.
