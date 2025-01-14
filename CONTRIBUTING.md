@@ -2,8 +2,6 @@
 
 Terima kasih telah mempertimbangkan untuk berkontribusi pada repository **Panduan System Administrator**! Kami menyambut kontribusi dari komunitas untuk meningkatkan kualitas dan kegunaan panduan ini. Ikuti panduan berikut untuk memastikan proses kolaborasi berjalan lancar.
 
----
-
 ## **Cara Anda Bisa Berkonstribusi**
 
 1. **Laporkan Masalah**
