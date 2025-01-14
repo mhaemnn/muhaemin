@@ -1,4 +1,4 @@
-# Contributing to System Administrator Guide
+# Panduan Kontribusi
 
 Terima kasih telah mempertimbangkan untuk berkontribusi pada repository **Panduan System Administrator**! Kami menyambut kontribusi dari komunitas untuk meningkatkan kualitas dan kegunaan panduan ini. Ikuti panduan berikut untuk memastikan proses kolaborasi berjalan lancar.
 
@@ -17,8 +17,6 @@ Terima kasih telah mempertimbangkan untuk berkontribusi pada repository **Pandua
 
 5. **Tingakatkan Alat dan Sumer Daya**
    - AddTambahkan cheat sheet atau tautan sumber daya di direktori `tools/`.
-
----
 
 ## **Mengirimkan Kontribusi**
 
@@ -61,15 +59,12 @@ Terima kasih telah mempertimbangkan untuk berkontribusi pada repository **Pandua
 - Pilih branch fitur anda dan berikan deskripsi perubahan yang jelas.
 - Tautkan isu terkait (misalnya, "Closes #123").
 
----
-
 ## **Code Etik**
 
 - Bersikaplah sopan dan inklusif terhadap semua kontributor.
 - Berikan umpan balik yang membangun dan menghindari kritik yang tidak perlu.
 - Sampaikan pendapat anda dengan profesional dan ramah.
 
----
 
 ## **Butuh Bantuan?**
 
