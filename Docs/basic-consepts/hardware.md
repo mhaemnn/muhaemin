@@ -9,7 +9,7 @@ tetang komponen hardware yang umum diemukan dalam lingkungan administrasi sistem
    - Definisi Central Processing Unit (CPU) adalah otak dari komputer yang bertanggung jawab untuk menjalankan perintah dan operasi.
    - Fungsi utama adalah melakukan pengolahan data, eksekusi intruksi, dan koordinasi kerja komponen lain.
    - Contoh Intel Core, AMD Ryzen.
-##### Cara membaca CPU Intel Core 
+##### Cara Membaca CPU Intel Core 
 Intel Core memiliki sistem penamaan yang membantu mengenali generasi, performa, dan segmentasi dari prosesor. Berikut adalah format dasar <u>`Intel Core i7-12700K`</u>.
 Penjelasan:
 1. `i7` Seri Prosesor (i3,i5,i7,i9). Semakin tinggi serinya semakin baik performa dan fitur tambahan seperti jumlah core dan cahce.
@@ -25,4 +25,22 @@ Penjelasan:
     | `T`   | Varian Hemat Daya                            |
     | `H`   | Untuk Leptop denga Performa Tinggi           |
     | `U`   | Untuk Leptop Hemat Daya                      |
-    
+
+
+#### Cara Membaca AMD Ryzen 
+Nama prosesor AMD Ryzen biasanya memiliki format seperti berikut: `AMD Ryzen 7 5800X`
+
+Penjelasan:
+1. `Ryzen 7` adalah prosesor (Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9).
+2. `5` menunjukan generasi dalam hal ini adalah generasi ke 5.
+3. `800` SKU atua model unik, angka ini menunjukan posisi prosesor generasi tersebut (semakin besar angkanya semakin tinggi kelasnya).
+4. `x` sufiks 
+   
+    | Code Sufiks       | Keterangan                                        |
+    |-------------------|---------------------------------------------------|
+    | `K`               | Performa lebih tinggi dibandingkan varian standar |
+    | `G`               | Memiliki GPU terintegrasi (contoh: Ryzen 5 5600G) |
+    | `GE`              | Hemat data daya dengan GPU terintegritas          |
+    | `HS`              | Hemat daya untuk varian leptop                    |
+    | `HX`              | varian tinggu untuk varian leptop                 |
+
