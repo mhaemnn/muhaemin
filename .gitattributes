@@ -1,2 +1,5 @@
+# Tetap izinkan Markdown dirender sebagai dokumen
+*.md linguist-documentation
+
 # Deteksi bahasa pemrograman tertentu
-* .sh linguist-language=Bash
+*.sh linguist-language=Bash
