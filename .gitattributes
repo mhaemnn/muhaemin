@@ -1,2 +1,12 @@
-* .sh linguist-language=Bash
+# Pastikan file Markdown tetap normal
 *.md linguist-language=Markdown
+
+# Deteksi bahasa pemrograman tertentu
+*.sh linguist-language=Bash
+*.py linguist-language=Python
+
+# Tandai file dokumentasi selain Markdown (misalnya, file teks lain)
+*.txt linguist-documentation
+
+# Abaikan file log atau file lainnya agar tidak dihitung
+*.log linguist-vendored
