@@ -44,3 +44,4 @@ Penjelasan:
     | `HS`              | Hemat daya untuk varian leptop                    |
     | `HX`              | varian tinggu untuk varian leptop                 |
 
+
