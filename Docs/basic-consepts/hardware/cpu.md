@@ -1,4 +1,4 @@
-## Dasar-Dasar Konsep Hardware
+## Dasar-Dasar Komponen Hardware
 
 Pemahaman tentang perangkat keras `(Hardware)` sangat penting bagi seorang System Administrator,
 karena perangkat keras adalah fondasi dari sistem komputer dan jaringa. Berikut adalah penjelasan dasar
@@ -43,9 +43,6 @@ Penjelasan:
     | `GE`              | Hemat data daya dengan GPU terintegritas          |
     | `HS`              | Hemat daya untuk varian leptop                    |
     | `HX`              | varian tinggu untuk varian leptop                 |
-
-
-
 
 [def]: https://www.intel.com/content/www/us/en/products/details/processors/core.html
 [def2]: https://www.amd.com/en/products/processors/desktops/ryzen.html
