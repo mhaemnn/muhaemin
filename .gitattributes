@@ -1,4 +1,4 @@
 # Deteksi bahasa pemrograman tertentu
 *.sh linguist-language=Bash
-*.py linguist-language=Python
+#*.py linguist-language=Python
 *.md linguist-documentation
