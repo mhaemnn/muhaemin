@@ -1,2 +1,2 @@
-* .sh linguist-detectable
-*.md linguist-detectable=false
+# Deteksi bahasa pemrograman tertentu
+* .sh linguist-language=Bash
