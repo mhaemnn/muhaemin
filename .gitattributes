@@ -1,3 +1,2 @@
 # Deteksi bahasa pemrograman tertentu
 *.sh linguist-language=Bash
-*.md linguist-language=Markdown
