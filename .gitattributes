@@ -1,2 +1,2 @@
 * .sh linguist-language=Bash
-*.md linguist-documentation
+* .md linguist-documentation
