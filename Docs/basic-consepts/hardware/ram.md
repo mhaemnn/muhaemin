@@ -23,13 +23,13 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
 <br>
   
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- Tautan untuk Back/Previous -->
-  <div style="text-align: left;">
+  <!-- Link untuk Back -->
+  <div style="flex: 1; text-align: left;">
     ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit;">Back: Central Processing Unit (CPU)</a></b>
   </div>
-  
-  <!-- Tautan untuk Next -->
-  <div style="text-align: right;">
+
+  <!-- Link untuk Next -->
+  <div style="flex: 1; text-align: right;">
     <b><a href="./storage.md" style="text-decoration: none; color: inherit;">Next: Penyimpanan (Storage)</a></b> →
   </div>
 </div>
