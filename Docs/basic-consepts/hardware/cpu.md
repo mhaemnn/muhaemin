@@ -46,7 +46,6 @@ Penjelasan:
 
 
 <br>
-<br>
 
 <div align="center">
     <b><a href="./ram.md">Next: Random Access Memory (RAM)</a></b> →
