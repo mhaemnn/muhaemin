@@ -45,6 +45,9 @@ Penjelasan:
     | `HX`              | varian tinggu untuk varian leptop                 |
 
 
+<br>
+<br>
+
 <div align="center">
     <b><a href="./ram.md">Next: Random Access Memory (RAM)</a></b> →
 </div>
