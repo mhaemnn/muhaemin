@@ -46,8 +46,9 @@ Penjelasan:
 
 
 <div align="center">
-  📄 <b><a href="./ram.md">Next: README Part 2</a></b> ➡️
+    <b><a href="./ram.md">Next: Random Access Memory (RAM)</a></b> →
 </div>
+
 
 [def]: https://www.intel.com/content/www/us/en/products/details/processors/core.html
 [def2]: https://www.amd.com/en/products/processors/desktops/ryzen.html
