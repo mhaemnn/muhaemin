@@ -22,15 +22,12 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
 
 <br>
   
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- Link untuk Back -->
-  <div style="flex: 1; text-align: left;">
-    ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit;">Back: Central Processing Unit (CPU)</a></b>
+<div style="display: flex; justify-content: space-between; align-items: center; height: 50px;">
+  <div style="display: flex; align-items: center;">
+    ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit; margin-left: 5px;">Back: Central Processing Unit (CPU)</a></b>
   </div>
-
-  <!-- Link untuk Next -->
-  <div style="flex: 2; text-align: right;">
-    <b><a href="./storage.md" style="text-decoration: none; color: inherit;">Next: Penyimpanan (Storage)</a></b> →
+  <div style="display: flex; align-items: center;">
+    <b><a href="./storage.md" style="text-decoration: none; color: inherit; margin-right: 5px;">Next: Penyimpanan (Storage)</a></b> →
   </div>
 </div>
 
