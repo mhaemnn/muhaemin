@@ -20,3 +20,11 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
   - Jenis ram yang paling umum digunakan saat ini (2025).
   - Versi yang tersedia, DDR, DDR2, DDR3, DDR4, dan DDR5.
   
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div align="left">
+    ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit;">Back: Central Processing Unit (CPU)</a></b>
+  </div>
+  <div align="right">
+    <b><a href="./ram.md" style="text-decoration: none; color: inherit;">Next: Penyimpanan ( Storage )</a></b> →
+  </div>
+</div>
