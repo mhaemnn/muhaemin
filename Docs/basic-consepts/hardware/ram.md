@@ -22,21 +22,12 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align="left">
-    ← <b><a href="./prev.md" style="text-decoration: none; color: inherit;">Back: Previous Page</a></b>
-  </div>
-  <div align="right">
-    <b><a href="./ram.md" style="text-decoration: none; color: inherit;">Next: Random Access Memory (RAM)</a></b> →
-  </div>
-</div>
-
-<table style="width: 100%; border-none: collapse;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="text-align: left; width: 50%;">
+    <td style="text-align: center; width: 50%; border: none;">
       ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit;">Back: Central Processing Unit (CPU)</a></b>
     </td>
-    <td style="text-align: right; width: 50%;">
+    <td style="text-align: center; width: 50%; border: none;">
       <b><a href="./storage.md" style="text-decoration: none; color: inherit;">Next: Penyimpanan (Storage)</a></b> →
     </td>
   </tr>
