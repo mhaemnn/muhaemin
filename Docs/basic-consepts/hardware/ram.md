@@ -29,7 +29,7 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
   </div>
 
   <!-- Link untuk Next -->
-  <div style="flex: 1; text-align: right;">
+  <div style="flex: 2; text-align: right;">
     <b><a href="./storage.md" style="text-decoration: none; color: inherit;">Next: Penyimpanan (Storage)</a></b> →
   </div>
 </div>
