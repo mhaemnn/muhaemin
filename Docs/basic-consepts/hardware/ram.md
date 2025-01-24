@@ -31,7 +31,7 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
   </div>
 </div>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-none: collapse;">
   <tr>
     <td style="text-align: left; width: 50%;">
       ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit;">Back: Central Processing Unit (CPU)</a></b>
