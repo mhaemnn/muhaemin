@@ -20,6 +20,22 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
   - Jenis ram yang paling umum digunakan saat ini (2025).
   - Versi yang tersedia, DDR, DDR2, DDR3, DDR4, dan DDR5.
 
+#### Spesifiksi RAM
+* Kapasitas (Size)
+  - Kapasitas ram diukur dalam Gigabyte (GB). Kapasitas yang umum digunkan saat ini berkisar 4GB - 64GB
+* Kecepatan (Speed)
+  - Kecepatan ram diukur dalam mentrasnfer per detik (MT/s) atau megahertz (MHz). Contoh 3200 MHz. 
+* Jenis Slot
+  - RAM memiliki jenis slot yang berbeda sesuai dengan motherboard. Contoh DIMM untuk destop dan S0-DIMM untuk leptop.
+* Timing dan Letency
+  - Mengacu pada waktu yang diperlukan untuk membanca atua menulis data di RAM. Contoh CL16.
+  
+#### Komponen Penting pada RAM
+* Chip
+* PCB (Printed Circuit Board)
+* Heat Speader
+#### Cara Kerja RAM
+* Data dari perangkat penyimpanan (HHD/SSD) dimuat ke RAM ketika suatu program dijalankan
 <br>
 
 <div align="center">
