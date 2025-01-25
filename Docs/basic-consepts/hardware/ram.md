@@ -23,7 +23,7 @@ Adalah jenis memori  utama pada komputer yang berfungsi untuk menyimpan data dan
 <br>
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
       <td align="left" style="border: none;">
         ← <b><a href="./cpu.md" style="text-decoration: none; color: inherit;">Back: Central Processing Unit (CPU)</a></b>
